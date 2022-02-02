@@ -4,6 +4,7 @@ src/CollatzConjecture/.vs
 src/CollatzConjecture/Temp
 
 src/CollatzConjecture/Library
+src/CollatzConjecture/Logs
 src/CollatzConjecture/.idea
 src/CollatzConjecture/Assembly-CSharp.csproj
 src/CollatzConjecture/Assembly-CSharp-Editor.csproj
