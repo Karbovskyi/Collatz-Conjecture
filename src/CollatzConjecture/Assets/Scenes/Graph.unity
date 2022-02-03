@@ -245,7 +245,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1e2879a4887f3ca4385867438cbf09e0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  inputData: 5
+  InputData: 234
+  LineRendererPrefab: {fileID: 1080693983042353080, guid: eeb4797836d50ac46966c83d98764b8b, type: 3}
 --- !u!4 &832494309
 Transform:
   m_ObjectHideFlags: 0
